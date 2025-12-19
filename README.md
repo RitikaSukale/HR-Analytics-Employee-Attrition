@@ -72,3 +72,6 @@ Data-driven HR policies can significantly reduce attrition
 🚀 Conclusion
 This HR Analytics project demonstrates how data visualization and analytics can help organizations understand employee behavior and reduce attrition.
 The insights derived from this dashboard can assist HR teams in creating targeted retention strategies, improving employee satisfaction, and strengthening organizational stability.
+
+HR Analytics Dashboard
+<img width="1563" height="744" alt="Image" src="https://github.com/user-attachments/assets/0c0a015e-f428-4e5a-b210-b7ca40500d72" />
